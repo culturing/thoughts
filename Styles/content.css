@@ -1,6 +1,6 @@
 body { font-family: Quattrocento; background-color: black; color: whitesmoke; line-height: 1.25rem; margin: 0; padding: 1rem; }
 a { text-decoration-color: whitesmoke; color: whitesmoke; text-decoration-thickness: 0;}
-h3 { margin: 0; }
+h2 { margin: 0; }
 #container { display: flex; flex-direction: row; justify-content: center; }
 #container-parent { display: flex; flex-direction: column; justify-content: center; min-height: calc(100% - 67px); } 
 .navbar { display: flex; flex-direction: row; justify-content: space-between; align-items: center; }

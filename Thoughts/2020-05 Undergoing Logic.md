@@ -1,4 +1,5 @@
-## Undergoing Logic
+Undergoing Logic
+May 2020
 
 *For Xanthippe*
 
