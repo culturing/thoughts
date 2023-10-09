@@ -81,10 +81,10 @@ class Program
         string chronologyHtml = string.Empty;
         foreach(KeyValuePair<string, List<Thought>> kvp in ThoughtsByDate.OrderByDescending(kvp => DateTime.Parse(kvp.Key)))
         {
-            chronologyHtml += $"<h3>{kvp.Key}</h3>\n";
+            //chronologyHtml += $"<h3>{kvp.Key}</h3>\n";
             foreach(Thought thought in Enumerable.Reverse(kvp.Value))
             {
-                chronologyHtml += $"<div style='{thought.Style()}'>{thought.Link}</div>\n";                    
+                chronologyHtml += $"<div style='{thought.Style()}'>{thought.Link}<p style='margin:0;'><em><small><small>{kvp.Key}</small></small></em></p></div>\n";                    
             }
         }
 
