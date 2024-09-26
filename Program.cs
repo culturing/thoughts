@@ -35,7 +35,7 @@ class Program
     static List<Thought> Thoughts { get; set; } = new List<Thought>();
     static Dictionary<string, List<Thought>> ThoughtsByDate = new Dictionary<string, List<Thought>>();
 
-    static async Task Main(string[] args)
+    static void Main(string[] args)
     {
         Directory.Delete("Output", true);
         Directory.CreateDirectory("Output/Thoughts");  

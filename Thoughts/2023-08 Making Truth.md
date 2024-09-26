@@ -62,7 +62,7 @@ August 2023
 - Humans are always in an environment
 - Truth is a way of coping with that environment
 - Too little, and there is chaos
-- Too much, and there is opporession
+- Too much, and there is oppression
 
 ### - 10 -
 

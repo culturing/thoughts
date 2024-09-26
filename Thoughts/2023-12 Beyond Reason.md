@@ -45,7 +45,7 @@ December 2023
 
 ### - 7 -
 
-- Socrated asked, "Why have you not concerend yourself with the details?"
+- Socrates asked, "Why have you not concerned yourself with the details?"
 - Confucius answered, "I am only a man. Can I consider all details?"
 
 ### - 8 -
@@ -67,7 +67,7 @@ December 2023
 - But we live in a time of too many social demands.
 - Are they simply the wrong demands?
 - Can we imagine a social order more valuable than food?
-- One with no otherwordly beyond?
+- One with no otherworldly beyond?
 
 ### - 10 -
 
@@ -120,7 +120,7 @@ December 2023
 - The conflict between these schools animated the world wars of the 20th Century.
 - Both would do well to ask whether the cosmos is really rationally ordered.
 - The conflict depends on differing understandings of the nature of reason.
-- But both insist that the universe is goverend by reason.
+- But both insist that the universe is governed by reason.
 - If the universe is not so governed, the conflict becomes merely a matter of taste.
 - Let us hold a final dirge for cosmic reason. Our children will thank us.
 

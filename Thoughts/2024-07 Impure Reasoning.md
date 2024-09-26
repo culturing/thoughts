@@ -15,7 +15,7 @@ June 2024
 ### - 3 -
 
 - Reason must find a new kind of rigor.
-- Not *imitatio Dei*, but accomodating change.
+- Not *imitatio Dei*, but accommodating change.
 - Things change. We think to keep up.
 - Whatever created the universe is enemy as well as friend.
 - We reason to tell them apart, to choose resistance or encouragement.

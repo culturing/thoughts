@@ -254,11 +254,11 @@ February 2024
 
 - What is there to think, except a hidden essence?
 - What can ground authority, except skill with essence?
-- Hegel's "essence = appearence" is egalitarian.
+- Hegel's "essence = appearance" is egalitarian.
 - It aims to make essence accessible to all.
 - But it clouds the hidden essence. It lies. It deceives.
 - Aristotle knew better.
-- He was wise to separate potentials (essence) from actuals (appearence) and to base most of his philosophy on this distinction (notwithstanding Medieval corruptions of his thinking).
+- He was wise to separate potentials (essence) from actuals (appearance) and to base most of his philosophy on this distinction (notwithstanding Medieval corruptions of his thinking).
 - But he may have overestimated his ability to speak clearly about hidden essences.
 - Discovery is always delicate.
 - Essence can only be seen with peripheral vision.

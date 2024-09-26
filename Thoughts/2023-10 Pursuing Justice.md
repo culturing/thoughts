@@ -85,7 +85,7 @@ October 2023
 - Machines have no inner world. 
 - As a result, they have no respect for the inner worlds of others.
 - Can machines be constructed with inner worlds? Yes. They are called children.
-- Constructing them in some other way would be at least as difficult and invovled as raising children.
+- Constructing them in some other way would be at least as difficult and involved as raising children.
 - We are better off raising good children.
 
 ### - 10 -
@@ -100,7 +100,7 @@ October 2023
 ### - 11 -
 
 - What are the ways of knowing the inner world?
-- Intuition? Instince? Fittingly, both begin with "in".
+- Intuition? Instinct? Fittingly, both begin with "in".
 - More will need be said about the etymologies of these words.
 - Both are essential to Peirce's science of abduction.
 - Both are essential to a fulfilling human life.
@@ -129,7 +129,7 @@ October 2023
 
 ### - 15 -
 
-- Sciensts cannot learn to hear the inner world as long as they remain dogmatic.
+- Scientists cannot learn to hear the inner world as long as they remain dogmatic.
 - Their dogma is the science is the one true way.
 - Why should there be one true way?
 
@@ -137,7 +137,7 @@ October 2023
 
 - Science damages the inner world. We must never forgive it.
 - Hegel was aware of this problem, but his philosophy was twisted into a more heinous objectivism. As if Spirit could be known objectively!
-- Hegel at least ralized that Spirit is not confined to the objective world, the outer world.
+- Hegel at least realized that Spirit is not confined to the objective world, the outer world.
 - The inner world remains more important for him.
 - But the outer world remains important for us too, and the two must be distinguished.
 
